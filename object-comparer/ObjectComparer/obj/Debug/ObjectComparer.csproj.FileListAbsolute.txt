@@ -1,0 +1,6 @@
+D:\CodeKit\object-comparer\ObjectComparer\bin\Debug\ObjectComparer.dll
+D:\CodeKit\object-comparer\ObjectComparer\bin\Debug\ObjectComparer.pdb
+D:\CodeKit\object-comparer\ObjectComparer\obj\Debug\ObjectComparer.csproj.CoreCompileInputs.cache
+D:\CodeKit\object-comparer\ObjectComparer\obj\Debug\ObjectComparer.dll
+D:\CodeKit\object-comparer\ObjectComparer\obj\Debug\ObjectComparer.pdb
+D:\CodeKit\object-comparer\ObjectComparer\obj\Debug\ObjectComparer.csprojAssemblyReference.cache
